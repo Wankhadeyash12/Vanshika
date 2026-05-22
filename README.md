@@ -98,7 +98,7 @@ Late Vasantdada Polytechnic, Nagpur
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=vanshikabadalwar&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Vanshika-Badalwar&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
@@ -109,8 +109,8 @@ Late Vasantdada Polytechnic, Nagpur
 <div align="center">
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vanshikabadalwar47@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vanshikabadalwar)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vanshika-badalwar)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vanshika-Badalwar)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vanshika-badalwar-11b406384)
 
 📧 **vanshikabadalwar47@gmail.com** &nbsp;|&nbsp; 📞 **+91 9146853884** &nbsp;|&nbsp; 📍 **Nagpur, Maharashtra, India**
 
@@ -120,6 +120,6 @@ Late Vasantdada Polytechnic, Nagpur
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=vanshikabadalwar&color=FF6EBF&style=for-the-badge&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=Vanshika-Badalwar&color=FF6EBF&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
